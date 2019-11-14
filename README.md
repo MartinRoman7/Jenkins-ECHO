@@ -18,5 +18,32 @@ Crear un pipeline orientado al deploy de un Sistema de seminarios.
 
 ![](/images/pipeline.png)
 
-## Dependiencias
+## Dependencias
+
+### Credenciales
+Alta de credenciales de acceso a VMs
+
+![](/images/credenciales.png)
+
+### Plugins
+
+#### Blue Ocean
+
+Permite crear y visualizar pipelines de forma más interactiva.
+
+![](/images/BlueOcean.png)
+
+#### SSH plugin
+
+Permite realizar conexiones ssh remotas.
+
+![](/images/ssh_plugin.png)
+
+#### Pipeline
+
+Permite la creación de un archivo Jenkins para la ejecución de un pipeline.
+
+<p align="center">
+<img width="400" height="270" src="images/pipeline_plugin.png">
+</p>
 
