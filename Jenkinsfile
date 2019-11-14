@@ -5,8 +5,6 @@ def ROLLBACK
 pipeline {
     agent any
     
-
-
     stages {
         stage('Connection to VM') {
             steps {
